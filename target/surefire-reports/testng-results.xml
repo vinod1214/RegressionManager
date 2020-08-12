@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="399975" started-at="2020-08-12T17:24:30 IST" finished-at="2020-08-12T17:31:10 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="feature" class="com.testRunner.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Surefire test" duration-ms="399975" started-at="2020-08-12T17:24:30 IST" finished-at="2020-08-12T17:31:10 IST">
+      <class name="com.testRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="setUpClass" is-config="true" duration-ms="4729" started-at="2020-08-12T17:24:30 IST" finished-at="2020-08-12T17:24:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="feature" duration-ms="70811" started-at="2020-08-12T17:24:34 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-08-12T17:25:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Regression Manager Login Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="feature" duration-ms="323439" started-at="2020-08-12T17:25:45 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-08-12T17:31:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Regression Manager Regression Tests]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="tearDownClass" is-config="true" duration-ms="766" started-at="2020-08-12T17:31:09 IST" finished-at="2020-08-12T17:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="writeExtentReport()[pri:0, instance:com.testRunner.TestRunner@35d176f7]" name="writeExtentReport" is-config="true" duration-ms="61" started-at="2020-08-12T17:31:10 IST" finished-at="2020-08-12T17:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeExtentReport -->
+      </class> <!-- com.testRunner.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

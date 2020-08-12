@@ -1,0 +1,10 @@
+com\pages\HomePage.class
+com\testRunner\TestRunner.class
+com\testRunner\TestRunnerReRun.class
+com\stepDefinitions\HomePageStepDefinition.class
+com\stepDefinitions\LoginPageStepDefinition.class
+com\stepDefinitions\AddMRLToSuiteStepDefinition.class
+com\stepDefinitions\RemoveMRLFromSuiteStepDefinition.class
+com\pages\LoginPage.class
+com\pages\SuitesManagerPage.class
+com\utility\TestBase.class
