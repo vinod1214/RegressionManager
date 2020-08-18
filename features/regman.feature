@@ -10,7 +10,7 @@ Feature: Regression Manager Regression Tests
        
        Examples:
 				 | username                     | password  |
-				 | vinod.duddukuri@oracle.com   | WINod1@14 |
+				 | vinod.duddukuri@oracle.com   | MAHAbharatam@123 |
 		
 		@Scenario2
 		Scenario Outline: Regression Manager Home Page 
@@ -21,7 +21,7 @@ Feature: Regression Manager Regression Tests
         
 			Examples:
 					| username                     | password  |
-					| vinod.duddukuri@oracle.com   | WINod1@14 |
+					| vinod.duddukuri@oracle.com   | MAHAbharatam@123 |
 					
 		@Scenario3
     Scenario Outline: Regression Manager Add
@@ -34,7 +34,7 @@ Feature: Regression Manager Regression Tests
         
 		  Examples:
 					| username                     | password  |
-					| vinod.duddukuri@oracle.com   | WINod1@14 |
+					| vinod.duddukuri@oracle.com   | MAHAbharatam@123 |
 					
     @Scenario4
     Scenario Outline: Regression Manager Remove
@@ -46,4 +46,4 @@ Feature: Regression Manager Regression Tests
     
 			Examples:
 					| username                     | password  |
-					| vinod.duddukuri@oracle.com   | WINod1@14 |      
+					| vinod.duddukuri@oracle.com   | MAHAbharatam@123 |      
