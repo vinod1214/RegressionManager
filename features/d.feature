@@ -9,4 +9,4 @@ Feature: Regression Manager Remove MRL Test
     
 Examples:
 	| username                     | password  |
-	| vinod.duddukuri@oracle.com   | WINod1@14 |
+	| vinod.duddukuri@oracle.com   | MAHAbharatam@123 |
